@@ -171,27 +171,26 @@ Source:
 
 ### Starting Window
 
-```md id="7r0m5f"
+
 ![Starting Window](Assets/screenshots/Starting_Window.png)
-```
+
 
 ### Difficulty Selection
 
-```md id="hqaw4q"
+
 ![Difficulty Window](Assets/screenshots/Difficulty_Level_Window.png)
-```
+
 
 ### Gameplay
 
-```md id="vdv0e8"
 ![Gameplay](Assets/screenshots/GamePlay.png)
-```
+
 
 ### Game Over Screen
 
-```md id="65rq3r"
+
 ![Game Over](Assets/screenshots/Game_Over.png)
-```
+
 
 ---
 
