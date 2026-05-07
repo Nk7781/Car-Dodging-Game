@@ -30,7 +30,7 @@ DifficultySettings getDifficultySettings(Difficulty d)
     switch (d)
     {
     case EASY:
-        return { 150.f, 1.5f, 1.8f, 1.0f, 0.02f, 0.85f, 1.10f };
+        return { 130.f, 1.0f, 3.0f, 1.8f, 0.005f, 0.85f, 1.05f };
     case MEDIUM:
         return { 200.f, 2.5f, 1.2f, 0.6f, 0.04f, 0.90f, 1.25f };
     case HARD:
