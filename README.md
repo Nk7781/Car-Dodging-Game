@@ -172,24 +172,24 @@ Source:
 ### Starting Window
 
 
-![Starting Window](Assets/screenshots/Starting_Window.png)
+![Starting Window](Assets/Screenshots/Starting_Window.png)
 
 
 ### Difficulty Selection
 
 
-![Difficulty Window](Assets/screenshots/Difficulty_Level_Window.png)
+![Difficulty Window](Assets/Screenshots/Difficulty_Level_Window.png)
 
 
 ### Gameplay
 
-![Gameplay](Assets/screenshots/GamePlay.png)
+![Gameplay](Assets/Screenshots/GamePlay.png)
 
 
 ### Game Over Screen
 
 
-![Game Over](Assets/screenshots/Game_Over.png)
+![Game Over](Assets/Screenshots/Game_Over.png)
 
 
 ---
