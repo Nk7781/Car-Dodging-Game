@@ -39,12 +39,6 @@ CAR-DODGING-GAME/
 ├── EnemyCar.cpp
 ├── Game.cpp
 │
-├── openal32.dll
-├── sfml-audio-2.dll
-├── sfml-graphics-2.dll
-├── sfml-system-2.dll
-├── sfml-window-2.dll
-│
 └── README.md
 ```
 
@@ -178,13 +172,13 @@ Source:
 ### Starting Window
 
 ```md id="7r0m5f"
-![Starting Window](Assets/screenshots/Starting Window.png)
+![Starting Window](Assets/screenshots/Starting_Window.png)
 ```
 
 ### Difficulty Selection
 
 ```md id="hqaw4q"
-![Difficulty Window](Assets/screenshots/Difficulty Level Window.png)
+![Difficulty Window](Assets/screenshots/Difficulty_Level_Window.png)
 ```
 
 ### Gameplay
@@ -196,7 +190,7 @@ Source:
 ### Game Over Screen
 
 ```md id="65rq3r"
-![Game Over](Assets/screenshots/Game Over.png)
+![Game Over](Assets/screenshots/Game_Over.png)
 ```
 
 ---
