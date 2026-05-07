@@ -178,13 +178,13 @@ Source:
 ### Starting Window
 
 ```md id="7r0m5f"
-![Starting Window](Assets/screenshots/Starting%20Window.png)
+![Starting Window](Assets/screenshots/Starting Window.png)
 ```
 
 ### Difficulty Selection
 
 ```md id="hqaw4q"
-![Difficulty Window](Assets/screenshots/Difficulty%20Level%20Window.png)
+![Difficulty Window](Assets/screenshots/Difficulty Level Window.png)
 ```
 
 ### Gameplay
@@ -196,7 +196,7 @@ Source:
 ### Game Over Screen
 
 ```md id="65rq3r"
-![Game Over](Assets/screenshots/Game%20Over.png)
+![Game Over](Assets/screenshots/Game Over.png)
 ```
 
 ---
